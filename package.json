@@ -1,0 +1,31 @@
+{
+  "name": "key-logger",
+  "version": "1.0.0",
+  "description": "simple key logger and filters handler (sandbox)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StetsD/key-logger.git"
+  },
+  "keywords": [
+	  "filter",
+      "key",
+      "logger",
+      "regexp",
+      "input",
+      "univalid",
+      "validation",
+      "validate",
+      "sandbox",
+	  "form"
+  ],
+  "author": "'stetsD' <chortstd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StetsD/key-logger"
+  },
+  "homepage": "https://github.com/StetsD/key-logger#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
