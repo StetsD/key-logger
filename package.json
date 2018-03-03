@@ -1,12 +1,12 @@
 {
-  "name": "key-logger",
+  "name": "univalid-key-logger",
   "version": "1.0.1",
   "description": "simple key logger and filters handler (sandbox)",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StetsD/key-logger.git"
+    "url": "git+https://github.com/StetsD/univalid-key-logger.git"
   },
   "keywords": [
     "filter",
@@ -23,9 +23,9 @@
   "author": "'stetsD' <chortstd@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StetsD/key-logger"
+    "url": "https://github.com/StetsD/univalid-key-logger"
   },
-  "homepage": "https://github.com/StetsD/key-logger#readme",
+  "homepage": "https://github.com/StetsD/univalid-key-logger#readme",
   "devDependencies": {},
   "dependencies": {}
 }

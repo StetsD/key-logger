@@ -13,7 +13,7 @@ const _config = {
     }
 }
 
-class FilterHandler {
+class keyLogger {
 	constructor(){
 		this.config = _config;
 		this.specials = {
@@ -118,5 +118,5 @@ let _parseReg = function(string, regs){
 };
 
 module.exports = () => {
-	return new FilterHandler();
+	return new keyLogger();
 };
